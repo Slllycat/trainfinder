@@ -1,7 +1,5 @@
-It fonds the shortest train path bettwen 2 train staions
-I also tried implementing a simple world correction and you dont have to always say bahnhof at the end
+It finds the shortest train route between two stations. I also implemented a simple auto-correct feature, so you don't always have to type "Bahnhof" at the end.
+The GUI is still pretty rough and there are a few bugs, but the proof of concept is done! :D
 
-Really bad Gui and a few bug still but the concept is done :D
-
-bugs:
-might have problems with 23Uhr-2Uhr trains :P
+Known bugs:
+It might have some trouble with overnight trains running between 11 PM and 2 AM. :P
